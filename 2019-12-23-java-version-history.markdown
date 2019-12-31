@@ -1,13 +1,12 @@
-# Java
-## Pricinple
-* It must be simple, object-oriented, and familiar.
-* It must be robust and secure.
-* It must be architecture-neutral and portable.
-* It must execute with high performance.
-* It must be interpreted, th`readed, and dynamic.
+---
+layout: post
+title:  "Java Version History"
+date:   2019-12-31 19:54:43 +0900
+categories: java
+---
 
-## Versions 
-### Histroy
+# Java Version
+## Release Date
 * JDK 1.0 (January 23, 1996)
 * JDK 1.1 (February 19, 1996)
 * J2SE 1.2 (December 8, 1998)

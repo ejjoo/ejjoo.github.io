@@ -1,0 +1,1062 @@
+{
+	"auto_complete":
+	{
+		"selected_items":
+		[
+			[
+				"PacketHande",
+				"PacketHandlerAttr"
+			],
+			[
+				"supp",
+				"SupplyBoxType\tSupplyBoxType"
+			]
+		]
+	},
+	"buffers":
+	[
+		{
+			"file": "_config.yml",
+			"settings":
+			{
+				"buffer_size": 1897,
+				"line_ending": "Unix"
+			}
+		}
+	],
+	"build_system": "",
+	"build_system_choices":
+	[
+	],
+	"build_varint": "",
+	"command_palette":
+	{
+		"height": 101.0,
+		"last_filter": "",
+		"selected_items":
+		[
+			[
+				"pckage list",
+				"Package Control: List Packages"
+			],
+			[
+				"markd",
+				"Set Syntax: Markdown Light"
+			],
+			[
+				"markdown",
+				"Set Syntax: Markdown Light"
+			],
+			[
+				"markdown pre",
+				"MarkdownLivePreview: Open Preview"
+			],
+			[
+				"install",
+				"Package Control: Install Package"
+			],
+			[
+				"remove",
+				"Package Control: Remove Package"
+			],
+			[
+				"markdnw",
+				"Set Syntax: Markdown Extended"
+			],
+			[
+				"markdow",
+				"Set Syntax: Markdown"
+			],
+			[
+				"re",
+				"Indentation: Reindent Lines"
+			],
+			[
+				"to tab",
+				"Indentation: Convert to Tabs"
+			],
+			[
+				"reind",
+				"Indentation: Reindent Lines"
+			],
+			[
+				"c++",
+				"Set Syntax: C++"
+			],
+			[
+				"find",
+				"Finder: Open here"
+			],
+			[
+				"finder",
+				"Finder: Open here"
+			],
+			[
+				"rename",
+				"Rename File"
+			],
+			[
+				"c#",
+				"Set Syntax: C#"
+			],
+			[
+				"insta",
+				"Package Control: Install Package"
+			],
+			[
+				"convert to tab",
+				"Indentation: Convert to Tabs"
+			],
+			[
+				"open fin",
+				"Finder: Open here"
+			],
+			[
+				"prefer",
+				"Preferences: Settings"
+			],
+			[
+				"delete",
+				"DeleteCurrentFile: Delete File"
+			],
+			[
+				"de",
+				"DeleteCurrentFile: Delete File"
+			],
+			[
+				"remove package",
+				"Package Control: Remove Package"
+			],
+			[
+				"theme",
+				"UI: Select Theme"
+			],
+			[
+				"them",
+				"UI: Select Theme"
+			],
+			[
+				"upper",
+				"Convert Case: Upper Case"
+			],
+			[
+				"oepn",
+				"Finder: Open here"
+			],
+			[
+				"xml",
+				"Set Syntax: XML"
+			],
+			[
+				"reload",
+				"OmniSharpSublime: Reload Solution"
+			],
+			[
+				"omni",
+				"OmniSharpSublime: Clean"
+			],
+			[
+				"solution",
+				"OmniSharpSublime: Reload Solution"
+			],
+			[
+				"open ",
+				"Finder: Open here"
+			],
+			[
+				"build",
+				"Build With: nodejs"
+			],
+			[
+				"javas",
+				"Set Syntax: JavaScript"
+			],
+			[
+				"build ",
+				"Build: New Build System"
+			],
+			[
+				"settings",
+				"Preferences: Settings"
+			],
+			[
+				"yam",
+				"Set Syntax: YAML"
+			],
+			[
+				"ansi",
+				"Set Syntax: Ansible"
+			],
+			[
+				"ins",
+				"Package Control: Install Package"
+			],
+			[
+				"json",
+				"JsonTree: Show Tree"
+			],
+			[
+				"word",
+				"Word Wrap: Toggle"
+			],
+			[
+				"brow",
+				"Preferences: Browse Packages"
+			],
+			[
+				"add ol",
+				"Project: Add Folder"
+			],
+			[
+				"key",
+				"Preferences: Key Bindings - User"
+			],
+			[
+				"setting",
+				"Preferences: Settings - Default"
+			],
+			[
+				"install pa",
+				"Package Control: Install Package"
+			],
+			[
+				"install ",
+				"Package Control: Install Package"
+			],
+			[
+				"in",
+				"Indentation: Reindent Lines"
+			]
+		],
+		"width": 448.0
+	},
+	"console":
+	{
+		"height": 126.0,
+		"history":
+		[
+			"exit",
+			"print \"asdf\"",
+			"print \"hello\"",
+			"print hello",
+			"print",
+			"p",
+			"q",
+			"exit",
+			"help",
+			"dsf",
+			"import urllib.request,os,hashlib; h = 'df21e130d211cfc94d9b0905775a7c0f' + '1e3d39e33b79698005270310898eea76'; pf = 'Package Control.sublime-package'; ipp = sublime.installed_packages_path(); urllib.request.install_opener( urllib.request.build_opener( urllib.request.ProxyHandler()) ); by = urllib.request.urlopen( 'http://packagecontrol.io/' + pf.replace(' ', '%20')).read(); dh = hashlib.sha256(by).hexdigest(); print('Error validating download (got %s instead of %s), please try manual install' % (dh, h)) if dh != h else open(os.path.join( ipp, pf), 'wb' ).write(by)",
+			"import urllib.request,os,hashlib; h = '2915d1851351e5ee549c20394736b442' + '8bc59f460fa1548d1514676163dafc88'; pf = 'Package Control.sublime-package'; ipp = sublime.installed_packages_path(); urllib.request.install_opener( urllib.request.build_opener( urllib.request.ProxyHandler()) ); by = urllib.request.urlopen( 'http://packagecontrol.io/' + pf.replace(' ', '%20')).read(); dh = hashlib.sha256(by).hexdigest(); print('Error validating download (got %s instead of %s), please try manual install' % (dh, h)) if dh != h else open(os.path.join( ipp, pf), 'wb' ).write(by)"
+		]
+	},
+	"distraction_free":
+	{
+		"menu_visible": true,
+		"show_minimap": false,
+		"show_open_files": false,
+		"show_tabs": false,
+		"side_bar_visible": false,
+		"status_bar_visible": false
+	},
+	"expanded_folders":
+	[
+		"/Users/ejjoo/Projects/ejjoo.github.io"
+	],
+	"file_history":
+	[
+		"/Users/ejjoo/Library/Mobile Documents/com~apple~CloudDocs/today.todo",
+		"/Users/ejjoo/Projects/ejjoo.github.io/draft/2019-12-23-java.markdown",
+		"/Users/ejjoo/Projects/ejjoo.github.io/_config.yml",
+		"/Users/ejjoo/Projects/ejjoo.github.io/about.markdown",
+		"/Users/ejjoo/Projects/ejjoo.github.io/.gitignore",
+		"/Users/ejjoo/Library/Mobile Documents/com~apple~CloudDocs/Tasks/todays.todo",
+		"/Users/ejjoo/Desktop/tomcat.md",
+		"/Users/ejjoo/Desktop/serlvet.md",
+		"/Users/ejjoo/Projects/bi-client/Assets/Scripts/Server/GameService.cs",
+		"/Users/ejjoo/Projects/bi-client/Assets/Scripts/Server/GameServer.cs",
+		"/Users/ejjoo/Projects/bi-client/Assets/Scripts/Common/GameConstants.cs",
+		"/Users/ejjoo/Projects/bi-client/Assets/Scripts/Common/Object/MoveAgent.cs",
+		"/Users/ejjoo/Projects/bi-client/Assets/Scripts/Server/AI/ActionTaskBase.cs",
+		"/Users/ejjoo/Projects/bi-client/Assets/Scripts/Client/GameTime.cs",
+		"/Users/ejjoo/Projects/bi-client/Assets/Scripts/Server/World/Agent/MovableCharacterActions.cs",
+		"/Users/ejjoo/access.log",
+		"/Users/ejjoo/Projects/bi-client/Assets/Scripts/Common/Models/CharacterStat.cs",
+		"/Users/ejjoo/Projects/bi-client/Assets/Scripts/Game/Input/PcInput.cs",
+		"/Users/ejjoo/Projects/bi-client/Assets/Scripts/Common/Net/CommandPacket.cs",
+		"/Users/ejjoo/Projects/bi-client/Assets/Scripts/Client/PlayerController.cs",
+		"/Users/ejjoo/Projects/bi-client/Assets/Scripts/Common/WorldObject/GameWorld.cs",
+		"/Users/ejjoo/Projects/bi-client/Assets/Scripts/Common/Net/Packet.cs",
+		"/Users/ejjoo/Projects/bi-client/Assets/Scripts/Common/WorldObject/WorldCharacter.cs",
+		"/Users/ejjoo/Projects/bi-client/Assets/Scripts/Game/Input/CharacterController.cs",
+		"/Users/ejjoo/Projects/bi-client/Assets/Scripts/Client/GameClient.cs",
+		"/Users/ejjoo/Projects/bi-client/Assets/Scripts/Common/WorldObject/WorldObject.cs",
+		"/Users/ejjoo/Projects/bi-client/Assets/Scripts/Server/ServerPacketHandler.cs",
+		"/Users/ejjoo/Projects/bi-client/Assets/Scripts/Common/WorldObject/WorldItem.cs",
+		"/Users/ejjoo/Projects/bi-client/Assets/Scripts/Game/Model/Battle/Item/Item.cs",
+		"/Users/ejjoo/Projects/bi-client/Assets/Scripts/Core/Util/JsonConverter/ItemMetaJsonConverter.cs",
+		"/Users/ejjoo/Projects/bi-client/Assets/AstarPathfindingProject/Generators/Utilities/GridLookup.cs",
+		"/Users/ejjoo/Projects/bi-client/Assets/Scripts/Game/Input/GameInput.cs",
+		"/Users/ejjoo/Projects/bi-client/Assets/Scripts/Game/Scene/BattleScene.cs",
+		"/Users/ejjoo/Projects/bi-client/Assets/Network/BNet/Dedicated/Internal/DedicatedNetworkService.Builder.cs",
+		"/Users/ejjoo/Projects/bi-client/Assets/Network/BNet/Dedicated/Internal/DedicatedNetworkService.cs",
+		"/Users/ejjoo/Projects/bi-client/Assets/Network/BNet/Dedicated/Internal/DedicatedNetworkManager.cs",
+		"/Users/ejjoo/Projects/bi-client/Assets/Network/BNet/Dedicated/Internal/DedicatedMatch.cs",
+		"/Users/ejjoo/Projects/bi-client/Assets/Network/BNet/Common/ConnectionBase.cs",
+		"/Users/ejjoo/Projects/bi-client/Assets/Scripts/Game/Model/Battle/FieldObject/FieldObject.cs",
+		"/Users/ejjoo/Projects/bi-client/Assets/Scripts/Game/Agent/ClientTargetingAgent.cs",
+		"/Users/ejjoo/Projects/bi-client/Assets/Scripts/Game/Player/BattlePlayer.cs",
+		"/Users/ejjoo/Projects/bi-client/Assets/Scripts/Game/Model/Battle/FieldObject/FieldProjectile.cs",
+		"/Users/ejjoo/Projects/bi-client/Assets/Scripts/Game/Model/Battle/FieldObject/FieldCharacter.cs",
+		"/Users/ejjoo/Projects/bi-client/Assets/Scripts/Game/Model/Battle/Area/AreaType.cs",
+		"/Users/ejjoo/Projects/bi-client/Assets/Scripts/Game/Model/Battle/Area/AreaSpawnInfo.cs",
+		"/Users/ejjoo/Projects/bi-client/Assets/Scripts/Game/Model/Battle/Area/AreaMeta.cs",
+		"/Users/ejjoo/Projects/bi-client/Assets/Scripts/Core/Network/Connections/Connection.cs",
+		"/Users/ejjoo/Projects/bi-client/Assets/Scripts/Game/Service/FieldUnitService.cs",
+		"/Users/ejjoo/Projects/bi-client/Assets/Scripts/Game/Client/ClientBattleAPI.cs",
+		"/Users/ejjoo/Projects/bi-client/bi-client.sublime-project",
+		"/Users/ejjoo/Projects/bi-client/Assets/Scripts/Data/ServerData.cs",
+		"/Users/ejjoo/Projects/sphere-fighter/CharcterMovement.cs",
+		"/Users/ejjoo/Projects/bs-client/Assets/Scripts/Util/PacketHandler.cs",
+		"/Users/ejjoo/Projects/sphere-fighter/Assets/SphereShooter/Scripts/MyUtils/Log.cs",
+		"/Users/ejjoo/Projects/sphere-fighter/my.todo",
+		"/Users/ejjoo/Projects/sphere-fighter/Assets/SphereShooter/Scripts/Character.cs",
+		"/Users/ejjoo/Projects/sphere-fighter/Assets/TestRunner.cs",
+		"/Users/ejjoo/Projects/sphere-fighter/Assets/SphereShooter/Scripts/PacketHandler.cs",
+		"/Users/ejjoo/Library/Mobile Documents/com~apple~CloudDocs/bi.todo",
+		"/Users/ejjoo/Library/Application Support/Sublime Text 3/Packages/PlainTasks/messages/Tutorial.todo",
+		"/Users/ejjoo/Projects/sphere-fighter/Assets/SphereShooter/Scripts/Health.cs",
+		"/Users/ejjoo/Projects/sphere-fighter/Assets/SphereShooter/Scripts/PlayerController.cs",
+		"/Users/ejjoo/Projects/sphere-fighter/Assets/SphereShooter/Scripts/AimingRangeRenderer.cs",
+		"/Users/ejjoo/Projects/sphere-fighter/Assets/Additional Assets/OutlineEffect/Outline.cs",
+		"/Users/ejjoo/Projects/sphere-fighter/Assets/Additional Assets/OutlineEffect/LinkedSet.cs",
+		"/Users/ejjoo/Projects/sphere-fighter/Assets/Additional Assets/Standard Assets/CrossPlatformInput/Scripts/PlatformSpecific/StandaloneInput.cs",
+		"/Users/ejjoo/Projects/sphere-fighter/Assets/SphereShooter/Scripts/Bullet.cs",
+		"/Users/ejjoo/Projects/sphere-fighter/Assets/SphereShooter/Scripts/MyUtils/Logger.cs",
+		"/Users/ejjoo/Projects/sphere-fighter/Assets/SphereShooter/Scripts/IAttackable.cs",
+		"/Users/ejjoo/Projects/sphere-fighter/Assets/SphereShooter/Scripts/Billboard.cs",
+		"/Users/ejjoo/Projects/sphere-fighter/tutorial.todo",
+		"/Users/ejjoo/Projects/sphere-fighter/Assets/Additional Assets/OutlineEffect/OutlineEffect.cs",
+		"/Users/ejjoo/Projects/sphere-fighter/Assets/SphereShooter/Scripts/ScreenSetup.cs",
+		"/Users/ejjoo/Projects/sphere-fighter/Assets/CameraFollower.cs",
+		"/Users/ejjoo/Projects/sphere-fighter/Assets/SphereShooter/Scripts/MyUtils/ObjectLayers.cs",
+		"/Users/ejjoo/Projects/sphere-fighter/Assets/Character.cs",
+		"/Users/ejjoo/Projects/sphere-fighter/Packages/manifest.json",
+		"/Users/ejjoo/Projects/sphere-fighter/Assets/SphereShooter/Scripts/AimRangeRenderer.cs",
+		"/Users/ejjoo/Projects/sphere-fighter/Assets/SphereShooter/Scripts/PolyBehaviour.cs",
+		"/Users/ejjoo/Projects/sphere-fighter/Assets/Additional Assets/Standard Assets/Characters/ThirdPersonCharacter/Scripts/ThirdPersonCharacter.cs",
+		"/Users/ejjoo/Projects/sphere-fighter/Assets/Additional Assets/Standard Assets/Characters/ThirdPersonCharacter/Scripts/ThirdPersonUserControl.cs",
+		"/Users/ejjoo/Projects/sphere-fighter/Assets/SphereShooter/PlayerController.cs",
+		"/Users/ejjoo/Projects/BlackIslandAlpha/Assets/NavAgentController.cs",
+		"/Users/ejjoo/Projects/sphere-fighter/Assets/SphereShooter/JoystickForShooting.cs",
+		"/Users/ejjoo/Downloads/ae6e0ee3ce2298138214536d62347a5d-3152a2c43c51e5c83311b901a3fac02531b2c203/gradientShader.shader",
+		"/Users/ejjoo/Projects/sphere-fighter/Assets/SphereShooter/Materials/gradientShader.shader",
+		"/Users/ejjoo/Projects/sphere-fighter/Assets/SphereShooter/MouseForShooting.cs",
+		"/Users/ejjoo/Projects/sphere-fighter/Assets/SphereShooter/AimRangeRenderer.cs",
+		"/Users/ejjoo/Projects/sphere-fighter/Assets/Standard Assets/CrossPlatformInput/Scripts/CrossPlatformInputManager.cs",
+		"/Users/ejjoo/Projects/sphere-fighter/Assets/Standard Assets/CrossPlatformInput/Scripts/Joystick.cs",
+		"/Users/ejjoo/Projects/sphere-fighter/Assets/Scripts/Bullet.cs",
+		"/Users/ejjoo/Projects/sphere-fighter/Assets/Scripts/Health.cs",
+		"/Users/ejjoo/Projects/sphere-fighter/Assets/PolyBehaviour.cs",
+		"/Users/ejjoo/Projects/sphere-fighter/Assets/PlayerController.cs",
+		"/Users/ejjoo/Projects/sphere-fighter/Assets/Scripts/GlobalSettings.cs",
+		"/Users/ejjoo/Projects/sphere-fighter/Assets/Scripts/EnemySpawner.cs",
+		"/Users/ejjoo/Projects/sphere-fighter/Assets/Scripts/PlayerController.cs",
+		"/Users/ejjoo/Projects/sphere-fighter/sphere-fighter.sublime-project",
+		"/Users/ejjoo/Projects/sphere-fighter/Assets/Health.cs",
+		"/Users/ejjoo/Projects/sphere-fighter/Assets/EnemySpawner.cs",
+		"/Users/ejjoo/Projects/sphere-fighter/Assets/Billboard.cs",
+		"/Users/ejjoo/Projects/sphere-fighter/Assets/Bullet.cs",
+		"/Users/ejjoo/Projects/unity_tutorial4/Assets/Content/game/Scripts/AnimateGameObjectSwitch.cs",
+		"/Users/ejjoo/Projects/unity_tutorial4/Assets/Scripts/Fx/LaserScope.js",
+		"/Users/ejjoo/Projects/dmm-web/teasersite.html",
+		"/Users/ejjoo/Projects/dmm-web/css/colorbox.css",
+		"/Users/ejjoo/Projects/bs-client/Assets/Scripts/Lobby_Product_Manager.cs",
+		"/Users/ejjoo/Projects/bs-client/Assets/Scripts/SceneLobby/Lobby_MainMenu.cs",
+		"/Users/ejjoo/Projects/bs-client/Assets/Scripts/Model/Promotion.cs",
+		"/Users/ejjoo/Projects/bs-client/Assets/Scripts/Network/Api/ProductApi.cs",
+		"/Users/ejjoo/Projects/bs-client/Assets/Scripts/GameDB/ProductDB.cs",
+		"/Users/ejjoo/Projects/bs-client/Assets/Scripts/Model/Enums/GoodsType.cs",
+		"/Users/ejjoo/Projects/bs-client/Assets/Scripts/Model/Enums/PromotionType.cs",
+		"/Users/ejjoo/Projects/bs-client/Assets/Scripts/Model/Product.cs",
+		"/Users/ejjoo/Projects/bs-client/Assets/Scripts/Network/Api/LobbyApi.cs",
+		"/Users/ejjoo/Projects/bs-client/Assets/Scripts/Model/UserPotentialSkill.cs",
+		"/Users/ejjoo/Projects/bs-client/Assets/Scripts/SceneLobby/InvenContext.cs",
+		"/Users/ejjoo/Projects/bs-client/Assets/Scripts/SceneLobby/ContainerView/Collection/LobbyCollectionViewInven.cs",
+		"/Users/ejjoo/Projects/bs-client/Assets/Scripts/SceneLobby/BigPopup/QuestView/LobbyQuestView.cs",
+		"/Users/ejjoo/Projects/bs-client/Assets/Scripts/SceneIngame/LocalizationDB.cs",
+		"/Users/ejjoo/Projects/bs-client/Assets/Scripts/SceneLobby/Lobby_Quest/LobbyQuestManager.cs",
+		"/Users/ejjoo/Projects/bs-client/Assets/Scripts/SceneLobby/LobbyContext.cs",
+		"/Users/ejjoo/Projects/bs-client/Assets/Scripts/Util/ArchLogger.cs",
+		"/Users/ejjoo/Projects/bs-client/Assets/Scripts/Model/QuestProgress.cs",
+		"/Users/ejjoo/Projects/bs-client/Assets/Scripts/Model/InvenGoods.cs",
+		"/Users/ejjoo/Desktop/queries/character_skin_index.sql",
+		"/Users/ejjoo/Desktop/queries/character_skin_live2d.sql",
+		"/Users/ejjoo/Desktop/queries/character_skin.sql"
+	],
+	"find":
+	{
+		"height": 26.0
+	},
+	"find_in_files":
+	{
+		"height": 124.0,
+		"where_history":
+		[
+		]
+	},
+	"find_state":
+	{
+		"case_sensitive": false,
+		"find_history":
+		[
+		],
+		"highlight": true,
+		"in_selection": false,
+		"preserve_case": false,
+		"regex": false,
+		"replace_history":
+		[
+		],
+		"reverse": false,
+		"show_context": false,
+		"use_buffer2": false,
+		"whole_word": false,
+		"wrap": true
+	},
+	"groups":
+	[
+		{
+			"selected": 0,
+			"sheets":
+			[
+				{
+					"buffer": 0,
+					"file": "_config.yml",
+					"semi_transient": true,
+					"settings":
+					{
+						"buffer_size": 1897,
+						"regions":
+						{
+						},
+						"selection":
+						[
+							[
+								0,
+								0
+							]
+						],
+						"settings":
+						{
+							"origin_encoding": "ASCII",
+							"syntax": "Packages/YAML/YAML.sublime-syntax"
+						},
+						"translation.x": 0.0,
+						"translation.y": 0.0,
+						"zoom_level": 1.0
+					},
+					"stack_index": 0,
+					"type": "text"
+				}
+			]
+		}
+	],
+	"incremental_find":
+	{
+		"height": 26.0
+	},
+	"input":
+	{
+		"height": 36.0
+	},
+	"layout":
+	{
+		"cells":
+		[
+			[
+				0,
+				0,
+				1,
+				1
+			]
+		],
+		"cols":
+		[
+			0.0,
+			1.0
+		],
+		"rows":
+		[
+			0.0,
+			1.0
+		]
+	},
+	"menu_visible": true,
+	"output.find_results":
+	{
+		"height": 227.0
+	},
+	"pinned_build_system": "",
+	"project": "ejjoo.github.io.sublime-project",
+	"replace":
+	{
+		"height": 72.0
+	},
+	"save_all_on_build": true,
+	"select_file":
+	{
+		"height": 0.0,
+		"last_filter": "",
+		"selected_items":
+		[
+			[
+				"movecharacter",
+				"Scripts/Server/World/Agent/MovableCharacterActions.cs"
+			],
+			[
+				"actionbase",
+				"Scripts/Server/AI/ActionTaskBase.cs"
+			],
+			[
+				"moveagent",
+				"Scripts/Common/Object/MoveAgent.cs"
+			],
+			[
+				"gameconst",
+				"Scripts/Common/GameConstants.cs"
+			],
+			[
+				"gameserver",
+				"Scripts/Server/GameServer.cs"
+			],
+			[
+				"gametime",
+				"Scripts/Client/GameTime.cs"
+			],
+			[
+				"gameservic",
+				"Scripts/Server/GameService.cs"
+			],
+			[
+				"charctestat",
+				"Scripts/Common/Models/CharacterStat.cs"
+			],
+			[
+				"pcinput",
+				"Scripts/Game/Input/PcInput.cs"
+			],
+			[
+				"commandpa",
+				"Scripts/Common/Net/CommandPacket.cs"
+			],
+			[
+				"worldch",
+				"Scripts/Common/WorldObject/WorldCharacter.cs"
+			],
+			[
+				"commapd",
+				"Scripts/Common/Net/CommandPacket.cs"
+			],
+			[
+				"gmaecon",
+				"Scripts/Common/GameConstants.cs"
+			],
+			[
+				"gmaeser",
+				"Scripts/Server/GameServer.cs"
+			],
+			[
+				"gmaecli",
+				"Scripts/Client/GameClient.cs"
+			],
+			[
+				"packet.cs",
+				"Scripts/Common/Net/Packet.cs"
+			],
+			[
+				"gameworld",
+				"Scripts/Common/WorldObject/GameWorld.cs"
+			],
+			[
+				"gameser",
+				"Scripts/Server/GameServer.cs"
+			],
+			[
+				"command",
+				"Scripts/Common/Net/CommandPacket.cs"
+			],
+			[
+				"gamecli",
+				"Scripts/Client/GameClient.cs"
+			],
+			[
+				"worldob",
+				"Scripts/Common/WorldObject/WorldObject.cs"
+			],
+			[
+				"charactercon",
+				"Scripts/Game/Input/CharacterController.cs"
+			],
+			[
+				"",
+				"bi-client.sublime-project"
+			],
+			[
+				"logger",
+				"Assets/SphereShooter/Scripts/MyUtils/Logger.cs"
+			],
+			[
+				"charcter",
+				"Assets/SphereShooter/Scripts/Character.cs"
+			],
+			[
+				"my.to",
+				"sphere-fighter/my.todo"
+			],
+			[
+				"TODO",
+				"sphere-fighter/my.todo"
+			],
+			[
+				"playercon",
+				"Assets/SphereShooter/Scripts/PlayerController.cs"
+			],
+			[
+				"outline",
+				"Assets/Additional Assets/OutlineEffect/Outline.cs"
+			],
+			[
+				"health",
+				"Assets/SphereShooter/Scripts/Health.cs"
+			],
+			[
+				"character",
+				"Assets/SphereShooter/Scripts/Character.cs"
+			],
+			[
+				"standaloneinput",
+				"Assets/Additional Assets/Standard Assets/CrossPlatformInput/Scripts/PlatformSpecific/StandaloneInput.cs"
+			],
+			[
+				"aimrange",
+				"Assets/SphereShooter/Scripts/AimRangeRenderer.cs"
+			],
+			[
+				"poly",
+				"Assets/SphereShooter/Scripts/PolyBehaviour.cs"
+			],
+			[
+				"crosspl",
+				"Assets/Standard Assets/CrossPlatformInput/Scripts/CrossPlatformInputManager.cs"
+			],
+			[
+				"joystick",
+				"Assets/Standard Assets/CrossPlatformInput/Scripts/Joystick.cs"
+			],
+			[
+				"joystic",
+				"Assets/SphereShooter/JoystickForShooting.cs"
+			],
+			[
+				"controller",
+				"Assets/SphereShooter/PlayerController.cs"
+			],
+			[
+				"renderer",
+				"Assets/SphereShooter/AimRangeRenderer.cs"
+			],
+			[
+				"playerc",
+				"Assets/PlayerController.cs"
+			],
+			[
+				"heal",
+				"Assets/Scripts/Health.cs"
+			],
+			[
+				"bullet",
+				"Assets/Scripts/Bullet.cs"
+			],
+			[
+				"laser",
+				"~/Projects/unity_tutorial4/Assets/Scripts/Fx/LaserScope.js"
+			],
+			[
+				"goodstype",
+				"Scripts/Model/Enums/GoodsType.cs"
+			],
+			[
+				"product",
+				"Scripts/Model/Product.cs"
+			],
+			[
+				"productapi",
+				"Scripts/Network/Api/ProductApi.cs"
+			],
+			[
+				"lobbyapi",
+				"Scripts/Network/Api/LobbyApi.cs"
+			],
+			[
+				"promotion",
+				"Scripts/Model/Promotion.cs"
+			],
+			[
+				"promotionty",
+				"Scripts/Model/Enums/PromotionType.cs"
+			],
+			[
+				"userpoten",
+				"Scripts/Model/UserPotentialSkill.cs"
+			],
+			[
+				"potentia",
+				"Scripts/Model/UserPotentialSkill.cs"
+			],
+			[
+				"localz",
+				"Scripts/SceneIngame/LocalizationDB.cs"
+			],
+			[
+				"inven.cs",
+				"Scripts/SceneLobby/ContainerView/Collection/LobbyCollectionViewInven.cs"
+			],
+			[
+				"lobbyquestmana",
+				"Scripts/SceneLobby/Lobby_Quest/LobbyQuestManager.cs"
+			],
+			[
+				"questprogre",
+				"Scripts/Model/QuestProgress.cs"
+			],
+			[
+				"invengo",
+				"Scripts/Model/InvenGoods.cs"
+			],
+			[
+				"goodsty",
+				"Scripts/Model/Enums/GoodsType.cs"
+			],
+			[
+				"productd",
+				"Scripts/GameDB/ProductDB.cs"
+			],
+			[
+				"productcon",
+				"Scripts/Model/Enums/ProductConfig.cs"
+			],
+			[
+				"sublime",
+				"bs-client/bs-client.sublime-project"
+			],
+			[
+				"goods",
+				"Scripts/Model/Goods.cs"
+			],
+			[
+				"productocn",
+				"Scripts/Model/Enums/ProductConfig.cs"
+			],
+			[
+				"producttyp",
+				"Scripts/Model/Enums/ProductType.cs"
+			],
+			[
+				"productconfig",
+				"Scripts/Model/Enums/ProductConfig.cs"
+			],
+			[
+				"productdb",
+				"Scripts/GameDB/ProductDB.cs"
+			],
+			[
+				"actionre",
+				"Scripts/Model/ActionResult.cs"
+			],
+			[
+				"attackty",
+				"Scripts/Model/Enums/AttackType.cs"
+			],
+			[
+				"ingamerequ",
+				"Scripts/Network/Ingame/IngameRequest.cs"
+			],
+			[
+				"battlemanager",
+				"Scripts/SceneIngame/BattleManager.cs"
+			],
+			[
+				"assetma",
+				"Scripts/Util/AssetBundleManager.cs"
+			],
+			[
+				"ingamenoti",
+				"Scripts/SceneIngame/Ingame_Socket.Notifications.cs"
+			],
+			[
+				"skillstatus",
+				"Scripts/Model/SkillStatus.cs"
+			],
+			[
+				"searchresult",
+				"Scripts/SceneStory/ScenarioMethods/Tutorial/SearchResult.cs"
+			],
+			[
+				"ingamesearch",
+				"Scripts/SceneIngame/SearchManager.cs"
+			],
+			[
+				"gameconte",
+				"Scripts/SceneIngame/GameContext.cs"
+			],
+			[
+				"contextw",
+				"Scripts/SceneStory/ScenarioMethods/Tutorial/ContextWait.cs"
+			],
+			[
+				"fieldtype",
+				"Scripts/Model/Enums/FieldType.cs"
+			],
+			[
+				"tutorial",
+				"Scenario/Tutorial_1.xml"
+			],
+			[
+				"characterstancebu",
+				"Scripts/SceneIngame/CharacterStanceButton.cs"
+			],
+			[
+				"intro",
+				"Scenario/Intro.xml"
+			],
+			[
+				"explai",
+				"Scripts/SceneStory/ScenarioMethods/Tutorial/Explain.cs"
+			],
+			[
+				"fieldt",
+				"Scripts/Model/Enums/FieldType.cs"
+			],
+			[
+				"ingmaui",
+				"Scripts/SceneStory/ScenarioMethods/Tutorial/IngameUIControl.cs"
+			],
+			[
+				"ingameuicon",
+				"Scripts/SceneStory/ScenarioMethods/Tutorial/IngameUIControl.cs"
+			],
+			[
+				"contextwait",
+				"Scripts/SceneStory/ScenarioMethods/Tutorial/ContextWait.cs"
+			],
+			[
+				"loop",
+				"Scripts/SceneStory/ScenarioMethods/Loop.cs"
+			],
+			[
+				"cursorui",
+				"Scripts/SceneStory/UI/Tutorial/CursorUI.cs"
+			],
+			[
+				"keycontrol",
+				"Scripts/SceneStory/ScenarioMethods/KeyControl.cs"
+			],
+			[
+				"cursor.cs",
+				"Scripts/SceneStory/ScenarioMethods/Tutorial/Cursor.cs"
+			],
+			[
+				"cursor.",
+				"Scripts/SceneStory/UI/Tutorial/CursorUI.cs"
+			],
+			[
+				"ingamecontext",
+				"Scripts/SceneStory/ScenarioMethods/Tutorial/IngameContextControl.cs"
+			],
+			[
+				".xml",
+				"Scenario/Intro.xml"
+			],
+			[
+				"tutoria",
+				"Scenario/Tutorial_1.xml"
+			],
+			[
+				"scenariode",
+				"Scripts/SceneStory/ScenarioDebugger.cs"
+			],
+			[
+				"scenariomanager",
+				"Scripts/SceneStory/ScenarioManager.cs"
+			],
+			[
+				"parall",
+				"Scripts/SceneStory/ScenarioMethods/Parallel.cs"
+			],
+			[
+				"condition",
+				"Scripts/SceneStory/ScenarioMethods/Condition.cs"
+			],
+			[
+				"context",
+				"Scripts/SceneStory/ScenarioMethods/Tutorial/ContextWait.cs"
+			],
+			[
+				"conte",
+				"Scripts/SceneStory/ScenarioMethods/Tutorial/ContextWait.cs"
+			],
+			[
+				"ingameuicontrol",
+				"Scripts/SceneStory/ScenarioMethods/Tutorial/IngameUIControl.cs"
+			],
+			[
+				"searchresult.",
+				"Scripts/SceneStory/ScenarioMethods/Tutorial/SearchResult.cs"
+			],
+			[
+				"itemty",
+				"Scripts/Model/Enums/ItemType.cs"
+			],
+			[
+				"tutori",
+				"Scenario/Tutorial_1.xml"
+			],
+			[
+				"condit",
+				"Scripts/SceneStory/ScenarioMethods/Condition.cs"
+			],
+			[
+				"loo",
+				"Scripts/SceneStory/ScenarioMethods/Loop.cs"
+			],
+			[
+				"contextwa",
+				"Scripts/SceneStory/ScenarioMethods/Tutorial/ContextWait.cs"
+			],
+			[
+				"imgcolo",
+				"Scripts/SceneStory/ScenarioMethods/ImgColor.cs"
+			],
+			[
+				"tutorial_1",
+				"Scenario/Tutorial_1.xml"
+			],
+			[
+				"scenariomethod.u",
+				"Scripts/SceneStory/ScenarioMethod.Util.cs"
+			],
+			[
+				"scenariomana",
+				"Scripts/SceneStory/ScenarioManager.cs"
+			],
+			[
+				"xml",
+				"Scenario/Tutorial_1.xml"
+			],
+			[
+				"fieldtype.",
+				"Scripts/Model/Enums/FieldType.cs"
+			],
+			[
+				"scenariome",
+				"Scripts/SceneStory/ScenarioMethod.cs"
+			],
+			[
+				"tutorial.xml",
+				"Scenario/Tutorial_1.xml"
+			],
+			[
+				"league.cs",
+				"Model/Enums/League.cs"
+			],
+			[
+				"gamedb.cs",
+				"Assets/Scripts/Model/GameDB.cs"
+			],
+			[
+				"gamedb",
+				"Assets/Scripts/GameDB.meta"
+			],
+			[
+				"apicons",
+				"Assets/Scripts/Network/Api/ApiConstants.cs"
+			],
+			[
+				"user.java",
+				"bs-common/src/main/java/com/arch/bs/model/user/User.java"
+			],
+			[
+				"usercontroll",
+				"bs-api/src/main/java/com/arch/bs/controller/UserController.java"
+			],
+			[
+				"battle.",
+				"bs-common/src/main/java/com/arch/bs/model/battle/Battle.java"
+			],
+			[
+				"battlecharacter",
+				"bs-common/src/main/java/com/arch/bs/model/character/BattleCharacter.java"
+			],
+			[
+				"initcon",
+				"bs-api/src/main/java/com/arch/bs/controller/InitController.java"
+			],
+			[
+				"propert",
+				"bs-battle/target/classes/properties/real.properties"
+			],
+			[
+				"socketcli",
+				"socketClient.js"
+			],
+			[
+				"apicli",
+				"apiClient.js"
+			],
+			[
+				"battleusereser",
+				"bs-battle/src/main/java/com/arch/bs/battle/game/user/BattleUserServiceImpl.java"
+			],
+			[
+				"sharerro",
+				"bs-battle/src/main/java/com/arch/bs/battle/game/room/SharerRoom.java"
+			]
+		],
+		"width": 0.0
+	},
+	"select_project":
+	{
+		"height": 500.0,
+		"last_filter": "",
+		"selected_items":
+		[
+			[
+				"server",
+				"~/Projects/bs-dummy-client/ai/bs-server.sublime-workspace"
+			]
+		],
+		"width": 380.0
+	},
+	"select_symbol":
+	{
+		"height": 0.0,
+		"last_filter": "",
+		"selected_items":
+		[
+		],
+		"width": 0.0
+	},
+	"selected_group": 0,
+	"settings":
+	{
+	},
+	"show_minimap": false,
+	"show_open_files": false,
+	"show_tabs": true,
+	"side_bar_visible": true,
+	"side_bar_width": 310.0,
+	"status_bar_visible": true,
+	"template_settings":
+	{
+	}
+}
