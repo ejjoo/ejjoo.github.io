@@ -1,3 +1,10 @@
+---
+layout: post
+title: Java Primitive Types
+date: 2019-12-31 21:25:54 +0900
+categories: java
+---
+
 ## 부동소숫점
 - Java의 부동소숫점은 0으로 나누는것을 허용
   - 1.0 / 0.0 = Infinity
