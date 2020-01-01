@@ -2,20 +2,14 @@
 <html lang="{{ page.lang | default: site.lang | default: "en" }}">
   {%- include head.html -%}
   <title>{{ site.title }}</title>
-  <link href="/public/css/bootstrap.min.css" rel="stylesheet">
+  <!-- <link href="/public/css/bootstrap.min.css" rel="stylesheet"> -->
   <link href="/public/css/style.css" rel="stylesheet">
   <body>
-	<div class="col-sm-3 sidebar hidden-xs>
+	<div class="sidebar">
 		{% include sidebar.html %}
 	</div>
-	<div class="col-sm col-sm-offset-3">
-		<div class="content">
-			{{ content }}
-		</div>
+	<div class="content">
+		{{ content }}
 	</div>
-
-	<script type="text/javascript" src="/public/js/jquery.min.js"></script>
-	<script type="text/javascript" src="/public/js/bootstrap.min.js"></script>
-	<script type="text/javascript" src="/public/js/app.js"></script>
   </body>
 </html>
