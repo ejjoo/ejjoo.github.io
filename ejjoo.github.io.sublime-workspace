@@ -15,14 +15,6 @@
 	},
 	"buffers":
 	[
-		{
-			"file": "_config.yml",
-			"settings":
-			{
-				"buffer_size": 1897,
-				"line_ending": "Unix"
-			}
-		}
 	],
 	"build_system": "",
 	"build_system_choices":
@@ -35,6 +27,58 @@
 		"last_filter": "",
 		"selected_items":
 		[
+			[
+				"lowercase",
+				"Convert Case: Lower Case"
+			],
+			[
+				"previ",
+				"Markdown Preview: Preview in Browser"
+			],
+			[
+				"preview",
+				"Markdown Preview: Preview in Browser"
+			],
+			[
+				"pre",
+				"Markdown Preview: Preview in Browser"
+			],
+			[
+				"prewvi",
+				"Markdown Preview: Preview in Browser"
+			],
+			[
+				"prev",
+				"Markdown Preview: Preview in Browser"
+			],
+			[
+				"prewv",
+				"Markdown Preview: Preview in Browser"
+			],
+			[
+				"insert",
+				"InsertDate: Default"
+			],
+			[
+				"insrt",
+				"InsertDate: Default"
+			],
+			[
+				"insertate",
+				"InsertDate: Custom"
+			],
+			[
+				"date",
+				"Preferences: InsertDate Settings - User"
+			],
+			[
+				"insert ",
+				"InsertDate: Default"
+			],
+			[
+				"install",
+				"Package Control: Install Package"
+			],
 			[
 				"pckage list",
 				"Package Control: List Packages"
@@ -50,10 +94,6 @@
 			[
 				"markdown pre",
 				"MarkdownLivePreview: Open Preview"
-			],
-			[
-				"install",
-				"Package Control: Install Package"
 			],
 			[
 				"remove",
@@ -260,14 +300,33 @@
 	},
 	"expanded_folders":
 	[
-		"/Users/ejjoo/Projects/ejjoo.github.io"
+		"/Users/ejjoo/Projects/ejjoo.github.io",
+		"/Users/ejjoo/Projects/ejjoo.github.io/.jekyll-cache",
+		"/Users/ejjoo/Projects/ejjoo.github.io/_posts",
+		"/Users/ejjoo/Projects/ejjoo.github.io/_site",
+		"/Users/ejjoo/Projects/ejjoo.github.io/_site/about",
+		"/Users/ejjoo/Projects/ejjoo.github.io/_site/assets",
+		"/Users/ejjoo/Projects/ejjoo.github.io/draft"
 	],
 	"file_history":
 	[
+		"/Users/ejjoo/Projects/ejjoo.github.io/draft/2019-12-31-system-design-url-shortening-service.md",
+		"/Users/ejjoo/Projects/ejjoo.github.io/draft/2019-12-23-java-primitive-types.markdown",
+		"/Users/ejjoo/Projects/ejjoo.github.io/_posts/2019-12-31-java-generic.markdown",
+		"/Users/ejjoo/Projects/ejjoo.github.io/about.markdown",
+		"/Users/ejjoo/Projects/ejjoo.github.io/_posts/2019-12-22-serlvet.md",
+		"/Users/ejjoo/Projects/ejjoo.github.io/_posts/2019-12-22-tomcat.md",
+		"/Users/ejjoo/Projects/ejjoo.github.io/index.markdown",
+		"/Users/ejjoo/Projects/practice-servlet/web/WEB-INF/web.xml",
+		"/Users/ejjoo/Library/Application Support/Sublime Text 3/Packages/User/insert_date.sublime-settings",
+		"/Users/ejjoo/Library/Application Support/Sublime Text 3/Packages/InsertDate/insert_date.sublime-settings",
+		"/Users/ejjoo/Projects/ejjoo.github.io/_posts/2019-12-22-serlvet.markdown",
+		"/Users/ejjoo/Projects/ejjoo.github.io/_site/index.html",
+		"/Users/ejjoo/Projects/ejjoo.github.io/_config.yml",
+		"/Users/ejjoo/Projects/ejjoo.github.io/draft/2019-12-23-java-version-history.markdown",
+		"/Users/ejjoo/Projects/ejjoo.github.io/ejjoo.github.io.sublime-project",
 		"/Users/ejjoo/Library/Mobile Documents/com~apple~CloudDocs/today.todo",
 		"/Users/ejjoo/Projects/ejjoo.github.io/draft/2019-12-23-java.markdown",
-		"/Users/ejjoo/Projects/ejjoo.github.io/_config.yml",
-		"/Users/ejjoo/Projects/ejjoo.github.io/about.markdown",
 		"/Users/ejjoo/Projects/ejjoo.github.io/.gitignore",
 		"/Users/ejjoo/Library/Mobile Documents/com~apple~CloudDocs/Tasks/todays.todo",
 		"/Users/ejjoo/Desktop/tomcat.md",
@@ -378,20 +437,7 @@
 		"/Users/ejjoo/Projects/bs-client/Assets/Scripts/Model/Enums/GoodsType.cs",
 		"/Users/ejjoo/Projects/bs-client/Assets/Scripts/Model/Enums/PromotionType.cs",
 		"/Users/ejjoo/Projects/bs-client/Assets/Scripts/Model/Product.cs",
-		"/Users/ejjoo/Projects/bs-client/Assets/Scripts/Network/Api/LobbyApi.cs",
-		"/Users/ejjoo/Projects/bs-client/Assets/Scripts/Model/UserPotentialSkill.cs",
-		"/Users/ejjoo/Projects/bs-client/Assets/Scripts/SceneLobby/InvenContext.cs",
-		"/Users/ejjoo/Projects/bs-client/Assets/Scripts/SceneLobby/ContainerView/Collection/LobbyCollectionViewInven.cs",
-		"/Users/ejjoo/Projects/bs-client/Assets/Scripts/SceneLobby/BigPopup/QuestView/LobbyQuestView.cs",
-		"/Users/ejjoo/Projects/bs-client/Assets/Scripts/SceneIngame/LocalizationDB.cs",
-		"/Users/ejjoo/Projects/bs-client/Assets/Scripts/SceneLobby/Lobby_Quest/LobbyQuestManager.cs",
-		"/Users/ejjoo/Projects/bs-client/Assets/Scripts/SceneLobby/LobbyContext.cs",
-		"/Users/ejjoo/Projects/bs-client/Assets/Scripts/Util/ArchLogger.cs",
-		"/Users/ejjoo/Projects/bs-client/Assets/Scripts/Model/QuestProgress.cs",
-		"/Users/ejjoo/Projects/bs-client/Assets/Scripts/Model/InvenGoods.cs",
-		"/Users/ejjoo/Desktop/queries/character_skin_index.sql",
-		"/Users/ejjoo/Desktop/queries/character_skin_live2d.sql",
-		"/Users/ejjoo/Desktop/queries/character_skin.sql"
+		"/Users/ejjoo/Projects/bs-client/Assets/Scripts/Network/Api/LobbyApi.cs"
 	],
 	"find":
 	{
@@ -402,6 +448,7 @@
 		"height": 124.0,
 		"where_history":
 		[
+			""
 		]
 	},
 	"find_state":
@@ -409,13 +456,16 @@
 		"case_sensitive": false,
 		"find_history":
 		[
+			"\\s",
+			"ejjoo"
 		],
 		"highlight": true,
 		"in_selection": false,
 		"preserve_case": false,
-		"regex": false,
+		"regex": true,
 		"replace_history":
 		[
+			"-"
 		],
 		"reverse": false,
 		"show_context": false,
@@ -426,38 +476,8 @@
 	"groups":
 	[
 		{
-			"selected": 0,
 			"sheets":
 			[
-				{
-					"buffer": 0,
-					"file": "_config.yml",
-					"semi_transient": true,
-					"settings":
-					{
-						"buffer_size": 1897,
-						"regions":
-						{
-						},
-						"selection":
-						[
-							[
-								0,
-								0
-							]
-						],
-						"settings":
-						{
-							"origin_encoding": "ASCII",
-							"syntax": "Packages/YAML/YAML.sublime-syntax"
-						},
-						"translation.x": 0.0,
-						"translation.y": 0.0,
-						"zoom_level": 1.0
-					},
-					"stack_index": 0,
-					"type": "text"
-				}
 			]
 		}
 	],
@@ -467,7 +487,7 @@
 	},
 	"input":
 	{
-		"height": 36.0
+		"height": 38.0
 	},
 	"layout":
 	{
@@ -500,7 +520,7 @@
 	"project": "ejjoo.github.io.sublime-project",
 	"replace":
 	{
-		"height": 72.0
+		"height": 48.0
 	},
 	"save_all_on_build": true,
 	"select_file":
@@ -509,6 +529,18 @@
 		"last_filter": "",
 		"selected_items":
 		[
+			[
+				"tomcat",
+				"_posts/2019-12-22-tomcat.md"
+			],
+			[
+				"about",
+				"about.markdown"
+			],
+			[
+				"abou",
+				"about.markdown"
+			],
 			[
 				"movecharacter",
 				"Scripts/Server/World/Agent/MovableCharacterActions.cs"
@@ -1008,18 +1040,6 @@
 			[
 				"socketcli",
 				"socketClient.js"
-			],
-			[
-				"apicli",
-				"apiClient.js"
-			],
-			[
-				"battleusereser",
-				"bs-battle/src/main/java/com/arch/bs/battle/game/user/BattleUserServiceImpl.java"
-			],
-			[
-				"sharerro",
-				"bs-battle/src/main/java/com/arch/bs/battle/game/room/SharerRoom.java"
 			]
 		],
 		"width": 0.0
