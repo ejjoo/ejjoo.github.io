@@ -33,12 +33,22 @@
   --font-family-serif: "Nanum Myeongjo";
 }
 
+* {
+	box-sizing: border-box;
+}
+
 article, aside, figcaption, figure, footer, header, hgroup, main, nav, section {
   display: block;
 }
 
+html {
+	height: 100%;
+}
+
 body {
+	height: 100%;
 	margin: 0;
+	padding: 0;
 	font-family: 'Gelasio', 'Nanum Myeongjo', serif;
 	color: #2c3e50;
 }
@@ -57,8 +67,8 @@ pre {
 	display: block;
 	overflow: auto;
 	margin-bottom: 15px;
-	padding: 5px;
 	padding-bottom: 10px;
+	padding: 5px;
 	line-height: 1.2;
 }
 
@@ -68,17 +78,32 @@ code {
 	margin: 0px;
 }
 
+.container {
+	min-height: 100%;
+	display: flex;
+	justify-content: space-between;
+	flex-flow: row nowrap;
+}
+
+.content {
+	/*margin-left: 180px;*/
+	flex: 1 1 auto;
+	padding: 0px 30px;
+}
+
 .sidebar {
-	position: fixed;
-	top: 0px;
-	left: 0;
-	height: 100%;
-	width: 180px;
+	/*position: fixed;*/
+	display: flex;
+	flex-flow: column nowrap;
+	flex: 0 0 220px;
 	padding: 15px;
 	z-index: 1;
-	background-color: #333;
-	overflow-x: hidden;
+	background-color: #222;
 	color: #fff;
+}
+
+.sidebar-item {
+	display: block;
 }
 
 .sidebar ul {
@@ -92,11 +117,6 @@ code {
 	color: #fff;
 }
 
-.content {
-	margin-left: 180px;
-	padding: 0px 30px;
-}
-
 .lead {
 	font-size: 120%;
 	color: #aaa;
@@ -104,14 +124,6 @@ code {
 
 .sidebar-header {
 	margin-bottom: 50px;
-}
-
-.nav > li > a {
-	padding: 2px 5px;
-}
-
-.nav > li > a:hover {
-	background-color: #333;
 }
 
 .sidebar-nav {
@@ -197,17 +209,11 @@ article .share .gplus:hover {
 	text-shadow: 1px 1px 1px rgba(150, 150, 150, 1);
 }
 
-@media only screen and (min-width: 768px) {
-    .page-header{
-        margin-right: 70px;
-    }
-}
-
 article {
 	padding: 0 5% 0;
 	font-size: 17px;
 	margin-bottom: 100px;
-	line-height: 2;
+	line-height: 1.9;
 }
 
 article.home div a, article.home pre a { color: #2c3e50; }
@@ -292,4 +298,44 @@ footer {
 
 .sidebar-footer a {
 	color: #ccc;
+}
+
+
+@media (max-width: 576px) {
+	article {
+		font-size: 0.9em;
+		line-height: 1.5;
+	}
+
+	.content {
+		padding: 0px;
+	}
+	.container {
+	    flex-direction: column;
+	}
+
+	.sidebar {
+		font-size: 0.8em;
+		flex: 0 0 auto;
+		flex-flow: row nowrap;
+		height: auto;
+	}
+
+	.sidebar-nav {
+		margin: 0px;
+	}
+
+	.sidebar-item {
+		flex: 1 1 auto;
+	}
+
+	.sidebar-header {
+		margin-bottom: 0px;
+	}
+
+	.sidebar-footer {
+		flex: 0 0 0px;
+		visibility: hidden;
+		display: none;
+	}
 }

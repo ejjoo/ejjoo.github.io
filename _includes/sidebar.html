@@ -1,4 +1,4 @@
-<div class="sidebar-header">
+<div class="sidebar-item sidebar-header">
 	<div class='sidebar-brand'>
 		<a href="/about/">{{ site.title }}</a>
 	</div>
@@ -11,7 +11,7 @@
 	{%- endif -%}
 </div>
 
-<nav class="sidebar-nav">
+<div class="sidebar-item sidebar-nav">
 	<ul class="nav">
       <li class="nav-title">Pages</li>
 	  <li>
@@ -30,9 +30,9 @@
 	    {% endif %}
 	  {% endfor %}
 	</ul>
-</nav>
+</div>
 
-<nav class="sidebar-nav">
+<div class="sidebar-item sidebar-nav">
   	<ul class="nav">
 			<li class="nav-title">Tags</li>
 	    {% for category in site.categories %}
@@ -45,9 +45,9 @@
 	    {% endfor %}
 	  </nav>
 	</ul>
-</nav>
+</div>
 
-<div class="sidebar-footer">
+<div class="sidebar-item sidebar-footer">
 	<p>Powered by <a href="https://github.com/jekyll/jekyll">Jekyll</a></p>
 	<p>Themed by myself</p>
 </div>

@@ -5,11 +5,13 @@
   <!-- <link href="/public/css/bootstrap.min.css" rel="stylesheet"> -->
   <link href="/public/css/style.css" rel="stylesheet">
   <body>
-	<div class="sidebar">
-		{% include sidebar.html %}
-	</div>
-	<div class="content">
-		{{ content }}
+  	<div class="container"> 
+		<div class="sidebar">
+			{% include sidebar.html %}
+		</div>
+		<div class="content">
+			{{ content }}
+		</div>
 	</div>
   </body>
 </html>
