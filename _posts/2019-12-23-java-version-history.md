@@ -1,6 +1,6 @@
 ---
 layout: post
-title:  "Java Version History"
+title:  자바 버전의 역사
 date:   2019-12-31 19:54:43 +0900
 categories: java
 ---

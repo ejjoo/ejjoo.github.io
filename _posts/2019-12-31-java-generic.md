@@ -1,6 +1,6 @@
 ---
 layout: post
-title: Java 제너릭
+title: 자바 - 제네릭 타입경계와 브릿지 메서드
 date: 2019-12-31 20:41:32 +0900
 categories: java
 ref: Core Java 9, Cay S. Hostmann
