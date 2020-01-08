@@ -43,6 +43,7 @@ plugins:
   - jekyll-seo-tag
 category_dir: category/
 tag_dir: tag/
+google_analytics: UA-155788752-1
 
 # Exclude from processing.
 # The following items will not be processed, by default.
