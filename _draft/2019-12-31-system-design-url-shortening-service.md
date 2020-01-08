@@ -28,7 +28,7 @@ url_link {
 }
 
 ## Domains
-### Hash Algorithm
+### Hash Algorithm알
 #### MD5
 #### SHA1
 #### SHA128
