@@ -39,7 +39,7 @@ svg:
 # theme: minima
 date_format: "%Y-%M-%D"
 plugins:
-  - jekyll-feed
+  # - jekyll-feed
   - jekyll-sitemap
   - jekyll-seo-tag
 category_dir: category/

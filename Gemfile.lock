@@ -72,7 +72,7 @@ PLATFORMS
 
 DEPENDENCIES
   jekyll (~> 4.0.0)
-  jekyll-feed (~> 0.12)
+  jekyll-feed
   jekyll-seo-tag
   jekyll-sitemap
   tzinfo (~> 1.2)
