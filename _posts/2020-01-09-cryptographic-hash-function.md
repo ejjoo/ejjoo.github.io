@@ -2,7 +2,7 @@
 layout: post
 title: 단방향 해시함수와 패스워드 저장
 date: 2020-01-09 00:58:36 +0900
-categories: algorithm
+categories: general
 ---
 ## 주요 속성
 * Deterministic, 즉 동일 입력에 대해 동일한 해시를 출력한다.

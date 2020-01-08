@@ -304,12 +304,18 @@
 		"/Users/ejjoo/Projects/ejjoo.github.io/.jekyll-cache",
 		"/Users/ejjoo/Projects/ejjoo.github.io/_posts",
 		"/Users/ejjoo/Projects/ejjoo.github.io/_site",
-		"/Users/ejjoo/Projects/ejjoo.github.io/_site/about",
-		"/Users/ejjoo/Projects/ejjoo.github.io/_site/assets",
-		"/Users/ejjoo/Projects/ejjoo.github.io/draft"
+		"/Users/ejjoo/Projects/ejjoo.github.io/_site/about"
 	],
 	"file_history":
 	[
+		"/Users/ejjoo/Projects/ejjoo.github.io/feed.xml",
+		"/Users/ejjoo/Projects/ejjoo.github.io/_posts/2020-01-09-cryptographic-hash-function.md",
+		"/Users/ejjoo/Projects/ejjoo.github.io/_site/algorithm/2020/01/09/base64.html",
+		"/Users/ejjoo/Projects/ejjoo.github.io/_posts/2020-01-09-base64.md",
+		"/Users/ejjoo/Projects/ejjoo.github.io/_config.yml",
+		"/Users/ejjoo/Projects/ejjoo.github.io/_includes/default.html",
+		"/Users/ejjoo/Projects/ejjoo.github.io/_includes/head.html",
+		"/Users/ejjoo/Projects/ejjoo.github.io/Gemfile",
 		"/Users/ejjoo/Projects/ejjoo.github.io/draft/2019-12-31-system-design-url-shortening-service.md",
 		"/Users/ejjoo/Projects/ejjoo.github.io/draft/2019-12-23-java-primitive-types.markdown",
 		"/Users/ejjoo/Projects/ejjoo.github.io/_posts/2019-12-31-java-generic.markdown",
@@ -322,7 +328,6 @@
 		"/Users/ejjoo/Library/Application Support/Sublime Text 3/Packages/InsertDate/insert_date.sublime-settings",
 		"/Users/ejjoo/Projects/ejjoo.github.io/_posts/2019-12-22-serlvet.markdown",
 		"/Users/ejjoo/Projects/ejjoo.github.io/_site/index.html",
-		"/Users/ejjoo/Projects/ejjoo.github.io/_config.yml",
 		"/Users/ejjoo/Projects/ejjoo.github.io/draft/2019-12-23-java-version-history.markdown",
 		"/Users/ejjoo/Projects/ejjoo.github.io/ejjoo.github.io.sublime-project",
 		"/Users/ejjoo/Library/Mobile Documents/com~apple~CloudDocs/today.todo",
@@ -430,18 +435,11 @@
 		"/Users/ejjoo/Projects/dmm-web/teasersite.html",
 		"/Users/ejjoo/Projects/dmm-web/css/colorbox.css",
 		"/Users/ejjoo/Projects/bs-client/Assets/Scripts/Lobby_Product_Manager.cs",
-		"/Users/ejjoo/Projects/bs-client/Assets/Scripts/SceneLobby/Lobby_MainMenu.cs",
-		"/Users/ejjoo/Projects/bs-client/Assets/Scripts/Model/Promotion.cs",
-		"/Users/ejjoo/Projects/bs-client/Assets/Scripts/Network/Api/ProductApi.cs",
-		"/Users/ejjoo/Projects/bs-client/Assets/Scripts/GameDB/ProductDB.cs",
-		"/Users/ejjoo/Projects/bs-client/Assets/Scripts/Model/Enums/GoodsType.cs",
-		"/Users/ejjoo/Projects/bs-client/Assets/Scripts/Model/Enums/PromotionType.cs",
-		"/Users/ejjoo/Projects/bs-client/Assets/Scripts/Model/Product.cs",
-		"/Users/ejjoo/Projects/bs-client/Assets/Scripts/Network/Api/LobbyApi.cs"
+		"/Users/ejjoo/Projects/bs-client/Assets/Scripts/SceneLobby/Lobby_MainMenu.cs"
 	],
 	"find":
 	{
-		"height": 26.0
+		"height": 38.0
 	},
 	"find_in_files":
 	{
@@ -529,6 +527,34 @@
 		"last_filter": "",
 		"selected_items":
 		[
+			[
+				"base64.",
+				"_posts/2020-01-09-base64.md"
+			],
+			[
+				"base64",
+				"_site/algorithm/2020/01/09/base64.html"
+			],
+			[
+				"hash",
+				"_posts/2020-01-09-cryptographic-hash-function.md"
+			],
+			[
+				"head.",
+				"_includes/head.html"
+			],
+			[
+				"head",
+				"_includes/head.html"
+			],
+			[
+				"de",
+				"_includes/default.html"
+			],
+			[
+				"_con",
+				"_config.yml"
+			],
 			[
 				"tomcat",
 				"_posts/2019-12-22-tomcat.md"
@@ -1012,34 +1038,6 @@
 			[
 				"apicons",
 				"Assets/Scripts/Network/Api/ApiConstants.cs"
-			],
-			[
-				"user.java",
-				"bs-common/src/main/java/com/arch/bs/model/user/User.java"
-			],
-			[
-				"usercontroll",
-				"bs-api/src/main/java/com/arch/bs/controller/UserController.java"
-			],
-			[
-				"battle.",
-				"bs-common/src/main/java/com/arch/bs/model/battle/Battle.java"
-			],
-			[
-				"battlecharacter",
-				"bs-common/src/main/java/com/arch/bs/model/character/BattleCharacter.java"
-			],
-			[
-				"initcon",
-				"bs-api/src/main/java/com/arch/bs/controller/InitController.java"
-			],
-			[
-				"propert",
-				"bs-battle/target/classes/properties/real.properties"
-			],
-			[
-				"socketcli",
-				"socketClient.js"
 			]
 		],
 		"width": 0.0
