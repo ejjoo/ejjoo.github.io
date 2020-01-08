@@ -26,12 +26,12 @@ CHF의 공격방식으로 역상공격이라고 하는 해시 충돌 공격이 �
 * 파일이나 데이터의 식별자
 
 # 해시 함수의 종류
-![](../public/images/2-2020-01-09-cryptographic-hash-function.jpg)
+![](/public/images/2-2020-01-09-cryptographic-hash-function.jpg)
 
 ## 1. MD5
 로널드 리베스트의 주도로 만들어진 해시함수로 과거에도 2,4 버전이 존재했고, 가장 범용적으로 사용되는 MD5는 128비트(16byte) 해시함수로, 1996년에 첫 취약점이 발견된 이후로, 1분내로 해시충돌을 만들어내거나 SSL 인증서를 변조하는 등의 다양한 공격 루트가 존재해 현재는 이용을 권하지 않는다. 2008년 MD6가 발표되었고, NIST의 SHA-3 경쟁에 출품되기도 했다.
 
-![](../public/images/3-2020-01-09-cryptographic-hash-function.png)
+![](/public/images/3-2020-01-09-cryptographic-hash-function.png)
 
 * 128비트 고정길이의 출력값을 가진다.
 * 고속연산이 가능하기 때문에 대용량 파일의 무결성을 확인하는 용도로 많이 사용한다.
@@ -42,7 +42,7 @@ CHF의 공격방식으로 역상공격이라고 하는 해시 충돌 공격이 �
 ### 2. SHA
 NIST와 NSA에서 재정하는 해시 함수집합. 현재는 SHA3까지 발표되었다.
 
-![](../public/images/4-2020-01-09-cryptographic-hash-function.png)
+![](/public/images/4-2020-01-09-cryptographic-hash-function.png)
 
 * SHA0과 SHA1은 160비트(20바이트)크기의 다이제스트를 생성한다.
     * 이 두 함수는 취약점이 발견되어 현재는 사용을 권장하지 않는다.
@@ -58,7 +58,7 @@ NIST와 NSA에서 재정하는 해시 함수집합. 현재는 SHA3까지 발표�
 
 이를 보완하는 방법은 주로 소금을 뿌린다라는 의미로 입력값 전후로 특정 값(salt)을 삽입하는 Salting이나, 다이제스트값을 다시 입력값으로 사용해 해시를 추출하는 Multiple Slow-Hashing Function 등이 사용된다. 물론 이 둘은 동시에 사용되는 경우가 많다. 이런 두 방식을 사용해 해시값을 생성하는 함수를 키 유도 함수(Key derivation function)라 하며, 다음과 같은 종류들이 있다.
 
-![알고리즘별 비용 추산](../public/images/1-2020-01-09-cryptographic-hash-function.png)
+![알고리즘별 비용 추산](/public/images/1-2020-01-09-cryptographic-hash-function.png)
 
 * PBKDF2: 특정 키를 Salting한 HMAC(key+hash)을 지정한 숫자만큼 반복해 해시를 생성하는 방식이며, 가장 많이 사용되기도 한다. 하지만 병렬처리에 취약하다는 단점 또한 가지고 있다.
 * bcrypt: 입력값이 72바이트로 고정되는 제약이 있다. 메모리 오버헤드를 통해 PBKDF2보다 비교적 더 안전한 편이나 장비의 가격이 낮아지면서 해킹 난이도 또한 낮아지고 있따. 
