@@ -65,10 +65,10 @@ NIST와 NSA에서 재정하는 해시 함수집합. 현재는 SHA3까지 발표�
 ##### 참고자료
 
 ---
-* <https://ko.wikipedia.org/wiki/%EC%97%AD%EC%83%81_%EA%B3%B5%EA%B2%A9>
-* <https://en.wikipedia.org/wiki/SHA-2>
-* <https://en.wikipedia.org/wiki/MD5>
-* <https://en.wikipedia.org/wiki/Secure_Hash_Algorithms>
-* <https://medium.com/@mpreziuso/password-hashing-pbkdf2-scrypt-bcrypt-1ef4bb9c19b3>
-* <https://d2.naver.com/helloworld/318732>
-* <http://throwingfire.com/storing-passwords-securely/>
+<https://ko.wikipedia.org/wiki/%EC%97%AD%EC%83%81_%EA%B3%B5%EA%B2%A9><br>
+<https://en.wikipedia.org/wiki/SHA-2><br>
+<https://en.wikipedia.org/wiki/MD5><br>
+<https://en.wikipedia.org/wiki/Secure_Hash_Algorithms><br>
+<https://medium.com/@mpreziuso/password-hashing-pbkdf2-scrypt-bcrypt-1ef4bb9c19b3><br>
+<https://d2.naver.com/helloworld/318732><br>
+<http://throwingfire.com/storing-passwords-securely/><br>
