@@ -8,3 +8,4 @@ permalink: /about/
 
 * [github](https://github.com/ejjoo)
 * [linkedin](https://www.linkedin.com/in/euijong-joo-334b9939/)
+* [monos-themes](https://github.com/ejjoo/jekyll-theme-monos)
